@@ -27,11 +27,17 @@ bropr runs in a **native GUI window** styled to feel like a classic terminal.
 ## 📂 Project Structure  
 
 bropr/
+
 ├── src/
+
 │ └── main.rs # Core application logic
+
 ├── assets/
+
 │ └── Hack-Regular.ttf # Required font file
+
 ├── Cargo.toml # Project manifest and dependencies
+
 └── README.md # You are here!
 
 
